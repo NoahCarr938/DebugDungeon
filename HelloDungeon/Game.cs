@@ -23,9 +23,8 @@ namespace HelloDungeon
             //Get the name from the player
             Console.WriteLine("Please enter your name.");
             characterName = Console.ReadLine();
-            Console.WriteLine("Hello, " + characterName);
-            Console.ReadKey();
             Console.Clear();
+            Console.WriteLine("Hello, " + characterName);
 
             //Display text for the first encounter, and store the players decision
             int input = GetInput("You've been approached by a traveler!!" +
