@@ -1,7 +1,7 @@
 # DebugDungeon
 Link to the DebugDungeon Release on Github.
 https://github.com/NoahCarr938/DebugDungeon/releases/tag/v1.0
-Download the zipped HelloDungeon file
+Download the zipped DebugDungeon file
 Right click on the file and extract all
 Open the extracted folder and open the net8.0 folder and run the .exe inside
 
